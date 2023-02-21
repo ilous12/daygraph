@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "daygraf-c1d93",
+    "staging": "daygraf-c1d93"
+  },
+  "targets": {},
+  "etags": {}
+}
